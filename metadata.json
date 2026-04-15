@@ -1,0 +1,6 @@
+{
+  "name": "Thoothukudi District Communication Directory",
+  "description": "A responsive directory for TN Election-2026 communication in Thoothukudi District, fetching data dynamically from Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
